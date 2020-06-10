@@ -3,5 +3,5 @@
 </h4>
 
 <p align="center">
-  <img alt="Popup Desktop" src="https://github.com/yuriduarte/popup-js-vanilla/blob/master/.github/1.gif">	
+  <img alt="Popup Desktop" src="https://github.com/yuriduarte/popup-js-vanilla/blob/master/.github/3.gif">	
 </p>
