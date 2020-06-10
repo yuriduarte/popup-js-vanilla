@@ -11,8 +11,6 @@
   - Fechamento do pop-up através da tecla "ESC" ou clique fora do popup ou clique no 'X'.
   - Botão CTA com abertura em nova guia.
 
-<br>
-
 ## 💻 Como usar
 
 Na sua linha de comando:
