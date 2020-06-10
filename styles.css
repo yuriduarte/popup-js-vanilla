@@ -115,7 +115,12 @@
 }
 
 .popup-content p {
+  font-size: 16px;
   color: rgba(0, 0, 0, .6);
+}
+
+.popup-content p spam {
+  font-size: 12px;
 }
 
 .popup-close {
