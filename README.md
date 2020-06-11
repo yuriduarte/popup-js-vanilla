@@ -7,9 +7,11 @@
 </p>
 
 ## 🛠 Funcionalidades
-  - Clique com exibição suavizada.
-  - Fechamento do pop-up através da tecla "ESC" ou clique fora do popup ou clique no 'X'.
-  - Botão CTA com abertura em nova guia.
+	✓ Fechamento do pop-up através da tecla "ESC".   
+	✓ Fechamento do pop-up através do clique fora do pop-up.   
+	✓ Fechamento do pop-up através do clique no 'X'.  
+	✓ Estilização para exibição e fechamento suavizado.  
+	✓ Botão CTA com abertura em nova guia.
 
 ## 💻 Como usar
 
